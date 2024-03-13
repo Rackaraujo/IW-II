@@ -1,3 +1,5 @@
 # 
-[Calculadora de IMC](https://Rackaraujo.github.io/IW-II/calculadora_de_imc)
+[Calculadora de IMC](https://rackaraujo.github.io/IW-II/calculadora%20de%20imc/)
+
+
 Atividades de Iw II
