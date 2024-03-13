@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000; /* Preto */
-    color: #ff69b4; /* Rosa */
+    background-color: #000; 
+    color: #ff69b4;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -19,11 +19,11 @@ body {
     background-color: #ff69b4;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 20px rgba(255, 105, 180, 0.2); /* Rosa */
+    box-shadow: 0 0 20px rgba(255, 105, 180, 0.2); 
     color: #000;
-    text-align: left; /* Alinhado à esquerda */
-    max-width: 400px; /* Largura máxima */
-    width: 100%; /* 100% da largura disponível */
+    text-align: left; 
+    max-width: 400px; 
+    width: 100%; 
 }
 
 #numeros label {
@@ -32,7 +32,7 @@ body {
 }
 
 #numeros input {
-    width: calc(100% - 10px); /* Leva em consideração o padding de 5px em ambos os lados */
+    width: calc(100% - 10px); 
     padding: 10px;
     margin-bottom: 15px;
     box-sizing: border-box;
@@ -47,7 +47,7 @@ body {
 }
 
 #botoes button {
-    flex: 1; /* Ocupa o espaço igualmente */
+    flex: 1; 
     background-color: #000;
     color: #ff69b4;
     padding: 10px 15px;
@@ -63,12 +63,12 @@ body {
 }
 
 #resultado {
-    background-color: #ff69b4; /* Rosa */
-    color: #fff; /* Branco */
+    background-color: #ff69b4;
+    color: #fff; 
     font-weight: bold;
     border-radius: 8px;
     padding: 10px;
     width: 100%;
-    margin-top: 20px; /* Margem superior */
+    margin-top: 20px; 
 }
 
