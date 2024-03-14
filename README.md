@@ -5,7 +5,5 @@
 ## [Lâmpada](https://rackaraujo.github.io/IW-II/Exercicio%20lampada/)
 
 # Aula 03 - 07/03
-# [Calculadora de IMC](https://rackaraujo.github.io/IW-II/calculadora%20de%20imc/)
+## [Calculadora de IMC](https://rackaraujo.github.io/IW-II/calculadora%20de%20imc/)
 
-
-Atividades de Iw II
