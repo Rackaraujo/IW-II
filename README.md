@@ -8,4 +8,5 @@
 ## [Calculadora de IMC](https://rackaraujo.github.io/IW-II/calculadora%20de%20imc/)
 
 # Aula 04 - 14/03
+## [Exercicio 01](https://rackaraujo.github.io/IW-II/Aula%204/Exercicio1/) , ## [Exercicio 02](https://rackaraujo.github.io/IW-II/Aula%204/Exercicio2/) , ## [Exercicio 03](https://rackaraujo.github.io/IW-II/Aula%204/Exercicio3/) , ## [Exercicio 04](https://rackaraujo.github.io/IW-II/Aula%204/Exercicio4/) , ## [Exercicio 05](https://rackaraujo.github.io/IW-II/Aula%204/Exercicio5/) , ## [Exercicio 06](https://rackaraujo.github.io/IW-II/Aula%204/Exercicio6/)
 
