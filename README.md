@@ -1,4 +1,4 @@
-# [Lâmpada](https://rackaraujo.github.io/IW-II/Exercicio/)
+# [Lâmpada](https://rackaraujo.github.io/IW-II/Exercicio%20lampada/)
 
 # [Calculadora](https://rackaraujo.github.io/IW-II/calculadora/)
 
