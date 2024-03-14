@@ -2,7 +2,7 @@
 
 # [Olá mundo](https://rackaraujo.github.io/IW-II/Aula%201/ola%20mundo/)
 
-# [Texto](https://rackaraujo.github.io/IW-II/Aula%201/calculadora/)
+# [Texto](https://rackaraujo.github.io/IW-II/Aula%201/texto/)
 
 # [Calculadora](https://rackaraujo.github.io/IW-II/Aula%201/calculadora/)
 
