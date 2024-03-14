@@ -1,10 +1,12 @@
-#Aula 01 - 15/02
+# Aula 01 - 15/02
 ## [Olá mundo](https://rackaraujo.github.io/IW-II/Aula%201/ola%20mundo/)
 ## [Texto](https://rackaraujo.github.io/IW-II/Aula%201/texto/)
 ## [Calculadora](https://rackaraujo.github.io/IW-II/Aula%201/calculadora/)
 
-# [Lâmpada](https://rackaraujo.github.io/IW-II/Exercicio%20lampada/)
+# Aula 02 - 22/02
+## [Lâmpada](https://rackaraujo.github.io/IW-II/Exercicio%20lampada/)
 
+# Aula 03 - 07/03
 # [Calculadora de IMC](https://rackaraujo.github.io/IW-II/calculadora%20de%20imc/)
 
 
