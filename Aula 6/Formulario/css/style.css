@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: #ff46d7;
+}
+
+label{
+    color: white;
+}
+
+.botao{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background-color: #ff46d7 !important;
+    border-color: #ff46d7 !important;
+}
+
+.botao:hover, .botao:active{
+    background-color: #ff46d7 !important;
+    border-color: #ff46d7 !important;
+}
+
+select{
+    background-color: #ff46d7;
+}
