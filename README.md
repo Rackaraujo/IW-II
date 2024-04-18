@@ -15,5 +15,5 @@
 ## [Manipulando CSS](https://rackaraujo.github.io/IW-II/Aula%205/)
 
 # Aula 06 - 18/04
-## [Validação de Formulário] (https://rackaraujo.github.io/IW-II/Aula%206/)
+## [Validação de Formulário](https://rackaraujo.github.io/IW-II/Aula%206/)
 
